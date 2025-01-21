@@ -19,3 +19,9 @@ baseUrl + /{province}/{city}/image.jpg
 change {province} with your province and {city} with your city name
 
 Example: https://raw.githubusercontent.com/fmiccolis/italian-cities-photo/main/BA/Putignano/image.jpg
+
+
+## CONTRIBUTING
+THANKS FOR YOUR WORK!!
+
+Please go to the [CONTRIBUTING.md](https://github.com/fmiccolis/italian-cities-photo/main/CONTRIBUTING.md) file to see how to contribute to this repository

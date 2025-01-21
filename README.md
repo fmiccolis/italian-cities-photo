@@ -5,21 +5,19 @@ Photos for the Italian cites grouped by provinces. Use this repository as your A
 baseUrl: https://raw.githubusercontent.com/fmiccolis/italian-cities-photo/main
 
 ### Photo of a province
-baseUrl + /{province}/image.jpg
-
-change {province} with your province
-
-Example: https://raw.githubusercontent.com/fmiccolis/italian-cities-photo/main/BA/image.jpg
-
-
+baseUrl + /{province}/image.jpg  
+change {province} with your province  
+Example: https://raw.githubusercontent.com/fmiccolis/italian-cities-photo/main/BA/image.jpg  
 
 ### Photo of a city
-baseUrl + /{province}/{city}/image.jpg
-
-change {province} with your province and {city} with your city name
-
+baseUrl + /{province}/{city}/image.jpg  
+change {province} with your province and {city} with your city name  
 Example: https://raw.githubusercontent.com/fmiccolis/italian-cities-photo/main/BA/Putignano/image.jpg
 
+### What if?
+What if the city that I want have a composite name?  
+The name of the city MUST be in camelCase without any spaces  
+Example with Castellana Grotte: https://raw.githubusercontent.com/fmiccolis/italian-cities-photo/main/BA/CastellanaGrotte/image.jpg
 
 ## CONTRIBUTING
 THANKS FOR YOUR WORK!!

@@ -24,4 +24,4 @@ Example: https://raw.githubusercontent.com/fmiccolis/italian-cities-photo/main/B
 ## CONTRIBUTING
 THANKS FOR YOUR WORK!!
 
-Please go to the [CONTRIBUTING.md](https://github.com/fmiccolis/italian-cities-photo/main/CONTRIBUTING.md) file to see how to contribute to this repository
+Please go to the [CONTRIBUTING.md](https://github.com/fmiccolis/italian-cities-photo/blob/main/CONTRIBUTING.md) file to see how to contribute to this repository
